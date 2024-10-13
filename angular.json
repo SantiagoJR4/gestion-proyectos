@@ -23,6 +23,8 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/primeng/resources/themes/aura-light-blue/theme.css",
+              "node_modules/primeng/resources/primeng.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -97,5 +99,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "b1322793-b1fb-41b2-97d3-3885d637ec31"
   }
 }
